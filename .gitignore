@@ -2,9 +2,9 @@
 !cifar10_eval_SqueezeNet.py
 !cifar10_SqueezeNet.py
 !cifar10_train_SqueezeNet.py
-!cifar10_input
+!cifar10_input.py
 !readme.md
-!SqueezeNet作业说明.pdf
+!SqueezeNet锟斤拷业说锟斤拷.pdf
 !.gitignore
 
 
